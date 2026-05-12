@@ -1,15 +1,6 @@
-"""
-Data-loading helpers for the R-PPO environment setup.
-
-This module bridges the validated raw market data produced by data_fetcher.py
-with the multi-frequency trading environment. It does not train models.
-"""
-
 from __future__ import annotations
-
 from dataclasses import dataclass
 from pathlib import Path
-
 import pandas as pd
 
 
