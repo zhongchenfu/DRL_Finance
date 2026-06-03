@@ -1,4 +1,0 @@
-baostock
-numpy
-pandas
-pytest
