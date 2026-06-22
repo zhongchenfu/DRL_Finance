@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+gymnasium
+stable-baselines3==2.8.0
+sb3-contrib==2.8.0
+torch
+arch
+baostock
